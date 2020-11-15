@@ -45,7 +45,7 @@ The user is able to:
   Israel Varela
 
 ## Testing
-Testing done on localhost Port as well as Heroku to verify functionality of the application.
+Testing done on localhost Port as well as GitHub Pages to verify functionality of the application.
 
 ## Questions
 
