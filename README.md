@@ -24,7 +24,7 @@ GitHub Pages:
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## Screenshots
-
+![Screen Shot 2020-11-15 at 5 44 49 PM](https://user-images.githubusercontent.com/62815477/99200226-b3693d00-2769-11eb-8e60-ac7e2b986dda.png)
 
 ## Installation
 Employee directory created with React
@@ -32,9 +32,9 @@ Employee directory created with React
 ## Usage
 The user is able to:
 
-  * Sort the table by at least one category
+  * Sort the table by name category
 
-  * Filter the users by at least one property.
+  * Filter the users by name.
 
 ## License
 
